@@ -1,4 +1,4 @@
-# GeoDescriberAI
+# GeoDescriberAPP
 
 This repository contains a Streamlit app where the user can select a region and provide description request. The app also uses the OpenStreetMap data and the OpenAI API for geodescribing the region.
 
